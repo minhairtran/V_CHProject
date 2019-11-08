@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">V_CH Project</string>
+
+
+    <!-- Strings related to StartingActivity-->
+    <string name="pref_header_activity_starting">StartingActivity</string>
+    <string name="pref_title_for_more_information_about_us">For more information about us
+    </string>
+
+    <!-- Strings related to LoadingActivity-->
+    <string name="title_activity_loading">LoadingActivity</string>
+
+</resources>
